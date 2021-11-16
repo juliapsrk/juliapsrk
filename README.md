@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juliapsrk
+- 👀 I’m interested in web development, blockchain, and crypto
+- 🌱 I’m currently learning the basics! (JavaScript, CSS, HTML)
+- 💞️ I’m looking to collaborate on exciting projects for beginners
+- 📫 How to reach me ... (to be updated, I'm brand new on Github)
